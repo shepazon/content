@@ -18,7 +18,7 @@ This article provides information about the changes in Firefox 109 that will aff
 
 ### HTML
 
-- The {{HTMLElement("input/range", "range")}} element supports [`list`](/en-US/docs/Web/HTML/Element/input/range#list) attribute which links via an id to a {{HTMLElement("datalist")}} to allow Firefox to display tick marks along the range.
+- The {{HTMLElement("input/range", "range")}} form of the {{HTMLElement("input")}} element now supports [`list`](/en-US/docs/Web/HTML/Element/input/range#list) attribute which links via an id to a {{HTMLElement("datalist")}} to allow Firefox to display tick marks along the range.
 
 #### Removals
 
